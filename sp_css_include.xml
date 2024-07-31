@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-31 02:16:22">
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Main Menu</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-esc-navigation-mainmenu-style">0fc6d36147ed3910066eec9d416d43ee</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-09-28 05:20:43</sys_created_on>
+<sys_id>c996136147ed3910066eec9d416d437f</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_name>Main Menu</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_c996136147ed3910066eec9d416d437f</sys_update_name>
+<sys_updated_by>nate.macarelli@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-11-03 00:28:38</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Active Items CSS</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="my_active_items_dchr">440dab418756f590fab5b958dabb3578</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>nate.macarelli@caskllc.com</sys_created_by>
+<sys_created_on>2023-11-03 00:27:09</sys_created_on>
+<sys_id>65fc6b418756f590fab5b958dabb3531</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>Active Items CSS</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_65fc6b418756f590fab5b958dabb3531</sys_update_name>
+<sys_updated_by>nate.macarelli@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-11-03 00:27:21</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-search-page-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-search-page-style">3e0a4ada47c23190066eec9d416d4340</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-25 04:11:39</sys_created_on>
+<sys_id>e3f9c6da47c23190066eec9d416d43b8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-search-page-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_e3f9c6da47c23190066eec9d416d43b8</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-25 04:11:39</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-my-pages-styles</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-my-pages-styles">f9e92131474efd50c089fbdb416d4356</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-23 12:34:21</sys_created_on>
+<sys_id>8ec969fd470efd50c089fbdb416d436e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-my-pages-styles</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_8ec969fd470efd50c089fbdb416d436e</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-23 12:34:21</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-kb-article-page-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-kb-article-page">5433d1a94782bd50c089fbdb416d43dd</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-22 16:16:35</sys_created_on>
+<sys_id>ad1399694782bd50c089fbdb416d4347</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-kb-article-page-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_ad1399694782bd50c089fbdb416d4347</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-22 16:16:35</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-portal-wide-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-portal-wide-style">b18741694742bd50c089fbdb416d439a</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-22 15:25:36</sys_created_on>
+<sys_id>a177cd294742bd50c089fbdb416d43ab</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>dchr-portal-wide-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_a177cd294742bd50c089fbdb416d43ab</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-22 15:33:16</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-record-prod-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-record-producer-page">76db7f1c470af550c089fbdb416d43e0</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-19 07:21:04</sys_created_on>
+<sys_id>ae9bf71c470af550c089fbdb416d4303</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-record-prod-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_ae9bf71c470af550c089fbdb416d4303</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-19 07:21:04</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-esc-taxonomy-topic-page</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-esc-taxonomy-topic-page">58e2537547b9f510066eec9d416d43bd</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-11 09:57:17</sys_created_on>
+<sys_id>0c921b3547b9f510066eec9d416d4354</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_name>dchr-esc-taxonomy-topic-page</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_0c921b3547b9f510066eec9d416d4354</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-15 17:54:53</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-quick-links-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-quick-links-style">5f1b7c804775b110066eec9d416d43da</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-05 12:24:55</sys_created_on>
+<sys_id>390bf8804775b110066eec9d416d437f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-quick-links-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_390bf8804775b110066eec9d416d437f</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-05 12:24:55</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-popular-topics-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-popular-topics-style">b0debf3747ed7110066eec9d416d43c8</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-05 08:01:24</sys_created_on>
+<sys_id>f4be7b3747ed7110066eec9d416d43bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-popular-topics-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_f4be7b3747ed7110066eec9d416d43bd</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-05 08:01:24</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-next-exp-kb-comments-override.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-next-exp-kb-comments-override.css">9283539e872179500fc28f59dabb35a2</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-09-30 12:59:58</sys_created_on>
+<sys_id>fcf2d75e872179500fc28f59dabb3510</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>mesp-next-exp-kb-comments-override.css</sys_name>
+<sys_package display_value="ServiceNow NowMobile App - Knowledge Management Screens and Launcher Screen" source="sn_km_mr">b3a70c8a530323004c36ddeeff7b124c</sys_package>
+<sys_policy/>
+<sys_scope display_value="ServiceNow NowMobile App - Knowledge Management Screens and Launcher Screen">b3a70c8a530323004c36ddeeff7b124c</sys_scope>
+<sys_update_name>sp_css_include_fcf2d75e872179500fc28f59dabb3510</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-10-04 12:04:31</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-card-badge-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-card-badge-style">e3e4424b4721f150c089fbdb416d43b0</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-02 15:13:23</sys_created_on>
+<sys_id>87d4ce0b4721f150c089fbdb416d4358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-card-badge-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_87d4ce0b4721f150c089fbdb416d4358</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-02 15:13:23</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-footer-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-footer-style">8276c84b47e1b150c089fbdb416d43d6</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-10-02 06:01:01</sys_created_on>
+<sys_id>9466484b47e1b150c089fbdb416d4379</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-footer-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_9466484b47e1b150c089fbdb416d4379</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-10-02 06:01:01</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-homepage-widget-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-homepage-widget-style">ade741f947697910066eec9d416d433b</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-09-28 13:34:41</sys_created_on>
+<sys_id>b237c1b947697910066eec9d416d4360</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>dchr-homepage-widget-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_b237c1b947697910066eec9d416d4360</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-09-29 07:19:47</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-container-experience-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-container-experience-style">dc830fa5476d3910066eec9d416d4349</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-09-28 03:56:23</sys_created_on>
+<sys_id>71530ba5476d3910066eec9d416d4388</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-container-experience-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_71530ba5476d3910066eec9d416d4388</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-09-28 03:56:23</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-next-exp-kb-search-override.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-next-exp-kb-search-override.css">5032d2f2879931104dc9a7d73cbb3551</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-09-19 11:13:47</sys_created_on>
+<sys_id>486156b2879931104dc9a7d73cbb35a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>mesp-next-exp-kb-search-override.css</sys_name>
+<sys_package display_value="ServiceNow NowMobile App - Knowledge Management Screens and Launcher Screen" source="sn_km_mr">b3a70c8a530323004c36ddeeff7b124c</sys_package>
+<sys_policy/>
+<sys_scope display_value="ServiceNow NowMobile App - Knowledge Management Screens and Launcher Screen">b3a70c8a530323004c36ddeeff7b124c</sys_scope>
+<sys_update_name>sp_css_include_486156b2879931104dc9a7d73cbb35a7</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-09-28 01:58:42</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Nuetra Text Font</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-nuetra-text-font-general">21cd9a5947e1f510066eec9d416d4339</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-09-27 06:34:28</sys_created_on>
+<sys_id>892e529947e1f510066eec9d416d434a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Nuetra Text Font</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_892e529947e1f510066eec9d416d434a</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-09-27 06:34:28</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-nuetra-text-font-general</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-nuetra-text-font-general">21cd9a5947e1f510066eec9d416d4339</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-09-27 06:33:41</sys_created_on>
+<sys_id>ab0e5a5947e1f510066eec9d416d436b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-nuetra-text-font-general</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_ab0e5a5947e1f510066eec9d416d436b</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-09-27 06:33:41</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-homepage-search-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-homepage-search-style">beda1e5547e1f510066eec9d416d4314</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-09-27 06:21:54</sys_created_on>
+<sys_id>d66a525547e1f510066eec9d416d43b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-homepage-search-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_d66a525547e1f510066eec9d416d43b7</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-09-27 06:21:54</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dchr-homepage-search-style</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="dchr-homepage-search-style">beda1e5547e1f510066eec9d416d4314</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>mariah.caparas@caskllc.com</sys_created_by>
+<sys_created_on>2023-09-27 06:21:00</sys_created_on>
+<sys_id>bd2bda5547e1f510066eec9d416d43dc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dchr-homepage-search-style</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_bd2bda5547e1f510066eec9d416d43dc</sys_update_name>
+<sys_updated_by>mariah.caparas@caskllc.com</sys_updated_by>
+<sys_updated_on>2023-09-27 06:21:00</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-lato-fonts</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value="ec-theme-lato-fonts">a84b49ce1b5d341047582171604bcb7b</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-07-13 13:29:15</sys_created_on>
+<sys_id>203b09ce1b5d341047582171604bcb88</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_name>ec-theme-lato-fonts</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_203b09ce1b5d341047582171604bcb88</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-11-02 09:03:44</sys_updated_on>
+<url>/a84b49ce1b5d341047582171604bcb7b.spcssdbx</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-catalog</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-catalog">73f6d989732a1110547a54eb7df6a7bb</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-10-13 07:40:17</sys_created_on>
+<sys_id>426ad94173221110547a54eb7df6a7ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ec-theme-catalog</sys_name>
+<sys_package display_value="Service Catalog - Service Workspace" source="sn_sc_workspace">0097719c3b0203008ed00d8044efc478</sys_package>
+<sys_policy/>
+<sys_scope display_value="Service Catalog - Service Workspace">0097719c3b0203008ed00d8044efc478</sys_scope>
+<sys_update_name>sp_css_include_426ad94173221110547a54eb7df6a7ac</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-10-13 07:40:17</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-polaris-search</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-polaris-search">86b4e4e01b9dfc108d16ca64604bcbd1</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-10-13 06:57:44</sys_created_on>
+<sys_id>c0809985772211109033bfeacf5a997f</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_name>ec-theme-polaris-search</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_c0809985772211109033bfeacf5a997f</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-10-13 06:59:00</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>KnowledgeViewPage.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="KnowledgeViewPage.css">d9d7e53d77925110214e5c674f5a995a</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-10-03 06:18:00</sys_created_on>
+<sys_id>23a7253d77925110214e5c674f5a994e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>KnowledgeViewPage.css</sys_name>
+<sys_package display_value="ServiceNow NowMobile App - Knowledge Management Screens and Launcher Screen" source="sn_km_mr">b3a70c8a530323004c36ddeeff7b124c</sys_package>
+<sys_policy/>
+<sys_scope display_value="ServiceNow NowMobile App - Knowledge Management Screens and Launcher Screen">b3a70c8a530323004c36ddeeff7b124c</sys_scope>
+<sys_update_name>sp_css_include_23a7253d77925110214e5c674f5a994e</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-10-12 17:34:37</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-va</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-va-stylesheet">bdd9075477621110cca8ddad7c5a997d</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-10-11 07:51:42</sys_created_on>
+<sys_id>53c9835477621110cca8ddad7c5a993b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ec-theme-va</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_53c9835477621110cca8ddad7c5a993b</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-10-11 07:51:42</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>portal-polaris-widgets-theme</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="portal-polaris-widgets-theme">b498273084125110f87767389929c62e</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-09-30 13:07:46</sys_created_on>
+<sys_id>f3786fbc84de1110f87767389929c6dc</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>portal-polaris-widgets-theme</sys_name>
+<sys_package display_value="Portal Next Experience Theme" source="sn_sppolaris_theme">e9276da055525110f87724327a36ce96</sys_package>
+<sys_policy/>
+<sys_scope display_value="Portal Next Experience Theme">e9276da055525110f87724327a36ce96</sys_scope>
+<sys_update_name>sp_css_include_f3786fbc84de1110f87767389929c6dc</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-09-30 13:07:46</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>portal-polaris-knowledge-theme</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="portal-polaris-knowledge-theme">ed2db1bc845a1110f87767389929c67e</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-09-30 05:18:14</sys_created_on>
+<sys_id>861d39bc845a1110f87767389929c639</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>portal-polaris-knowledge-theme</sys_name>
+<sys_package display_value="Portal Next Experience Theme" source="sn_sppolaris_theme">e9276da055525110f87724327a36ce96</sys_package>
+<sys_policy/>
+<sys_scope display_value="Portal Next Experience Theme">e9276da055525110f87724327a36ce96</sys_scope>
+<sys_update_name>sp_css_include_861d39bc845a1110f87767389929c639</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-09-30 05:18:14</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>portal-polaris-ticket-theme</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="portal-polaris-ticket-theme">a0cc3d7c845a1110f87767389929c614</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-09-30 05:17:02</sys_created_on>
+<sys_id>57ac3d7c845a1110f87767389929c611</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>portal-polaris-ticket-theme</sys_name>
+<sys_package display_value="Portal Next Experience Theme" source="sn_sppolaris_theme">e9276da055525110f87724327a36ce96</sys_package>
+<sys_policy/>
+<sys_scope display_value="Portal Next Experience Theme">e9276da055525110f87724327a36ce96</sys_scope>
+<sys_update_name>sp_css_include_57ac3d7c845a1110f87767389929c611</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-09-30 05:17:02</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>portal-polaris-catalogs-theme</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="portal-polaris-catalogs-theme">5a4c31bc845a1110f87767389929c600</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-09-30 05:14:29</sys_created_on>
+<sys_id>ef2c39bc845a1110f87767389929c632</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>portal-polaris-catalogs-theme</sys_name>
+<sys_package display_value="Portal Next Experience Theme" source="sn_sppolaris_theme">e9276da055525110f87724327a36ce96</sys_package>
+<sys_policy/>
+<sys_scope display_value="Portal Next Experience Theme">e9276da055525110f87724327a36ce96</sys_scope>
+<sys_update_name>sp_css_include_ef2c39bc845a1110f87767389929c632</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-09-30 05:14:29</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>portal-polaris-common-theme</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="portal-polaris-common-theme">02bb71bc845a1110f87767389929c6c7</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-09-30 05:12:44</sys_created_on>
+<sys_id>a99b71f8845a1110f87767389929c6f3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>portal-polaris-common-theme</sys_name>
+<sys_package display_value="Portal Next Experience Theme" source="sn_sppolaris_theme">e9276da055525110f87724327a36ce96</sys_package>
+<sys_policy/>
+<sys_scope display_value="Portal Next Experience Theme">e9276da055525110f87724327a36ce96</sys_scope>
+<sys_update_name>sp_css_include_a99b71f8845a1110f87767389929c6f3</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-09-30 05:12:44</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>portal-polaris-lato-fonts</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="portal-polaris-lato-fonts">f11b397c845a1110f87767389929c691</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-09-30 05:10:03</sys_created_on>
+<sys_id>d0da357c845a1110f87767389929c69c</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>portal-polaris-lato-fonts</sys_name>
+<sys_package display_value="Portal Next Experience Theme" source="sn_sppolaris_theme">e9276da055525110f87724327a36ce96</sys_package>
+<sys_policy/>
+<sys_scope display_value="Portal Next Experience Theme">e9276da055525110f87724327a36ce96</sys_scope>
+<sys_update_name>sp_css_include_d0da357c845a1110f87767389929c69c</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-09-30 05:10:03</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-catalogs-dark</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-catalogs-dark">6c92a1a5c9711110f8772154ff5512aa</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2022-09-07 14:46:30</sys_created_on>
+<sys_id>bd7225a5c9711110f8772154ff55122a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ec-theme-catalogs-dark</sys_name>
+<sys_package display_value="Service Catalog - Service Workspace" source="sn_sc_workspace">0097719c3b0203008ed00d8044efc478</sys_package>
+<sys_policy/>
+<sys_scope display_value="Service Catalog - Service Workspace">0097719c3b0203008ed00d8044efc478</sys_scope>
+<sys_update_name>sp_css_include_bd7225a5c9711110f8772154ff55122a</sys_update_name>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2022-09-07 14:46:30</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-next-experience-ec-overrides.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-next-experience-ec-overrides.css">fbcc54a6774111108f64b2487b5a998b</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-08-04 05:27:55</sys_created_on>
+<sys_id>43dc54a6774111108f64b2487b5a998f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>mesp-next-experience-ec-overrides.css</sys_name>
+<sys_package display_value="Webviews for mobile" source="sn_me_webview">0d30eeec77eb2300454792718a106177</sys_package>
+<sys_policy/>
+<sys_scope display_value="Webviews for mobile">0d30eeec77eb2300454792718a106177</sys_scope>
+<sys_update_name>sp_css_include_43dc54a6774111108f64b2487b5a998f</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-08-04 05:27:55</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-next-exp-styling-overrides.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-next-experience-styling-overrides.css">4eafe482773011108f64b2487b5a9939</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-27 09:05:28</sys_created_on>
+<sys_id>0ee14cc8778111108f64b2487b5a9900</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>mesp-next-exp-styling-overrides.css</sys_name>
+<sys_package display_value="Webviews for mobile" source="sn_me_webview">0d30eeec77eb2300454792718a106177</sys_package>
+<sys_policy/>
+<sys_scope display_value="Webviews for mobile">0d30eeec77eb2300454792718a106177</sys_scope>
+<sys_update_name>sp_css_include_0ee14cc8778111108f64b2487b5a9900</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-27 09:06:40</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-next-exp-date-picker-overrides.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-next-exp-date-picker-overrides.css">9edf6c82773011108f64b2487b5a996f</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-27 09:06:12</sys_created_on>
+<sys_id>fa128cc8778111108f64b2487b5a99cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>mesp-next-exp-date-picker-overrides.css</sys_name>
+<sys_package display_value="Webviews for mobile" source="sn_me_webview">0d30eeec77eb2300454792718a106177</sys_package>
+<sys_policy/>
+<sys_scope display_value="Webviews for mobile">0d30eeec77eb2300454792718a106177</sys_scope>
+<sys_update_name>sp_css_include_fa128cc8778111108f64b2487b5a99cf</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-27 09:06:12</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-next-experience-modal-overrides.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-next-experience-modal-overrides.css">48cfe882773011108f64b2487b5a99b2</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-27 09:05:59</sys_created_on>
+<sys_id>af028cc8778111108f64b2487b5a99cb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>mesp-next-experience-modal-overrides.css</sys_name>
+<sys_package display_value="Webviews for mobile" source="sn_me_webview">0d30eeec77eb2300454792718a106177</sys_package>
+<sys_policy/>
+<sys_scope display_value="Webviews for mobile">0d30eeec77eb2300454792718a106177</sys_scope>
+<sys_update_name>sp_css_include_af028cc8778111108f64b2487b5a99cb</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-27 09:05:59</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Quill Bubble css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-04 13:49:57</sys_created_on>
+<sys_id>d9666a2497e01110ecc47e0e6253af01</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Quill Bubble css</sys_name>
+<sys_package display_value="Employee Profile" source="sn_employee">1e95bac2738f001001b566b90ff6a7cd</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Profile">1e95bac2738f001001b566b90ff6a7cd</sys_scope>
+<sys_update_name>sp_css_include_d9666a2497e01110ecc47e0e6253af01</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-04 13:49:57</sys_updated_on>
+<url>/styles/quill_v137.bubble.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Quill SNOW css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-04 13:49:30</sys_created_on>
+<sys_id>8e16ea2497e01110ecc47e0e6253af8e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Quill SNOW css</sys_name>
+<sys_package display_value="Employee Profile" source="sn_employee">1e95bac2738f001001b566b90ff6a7cd</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Profile">1e95bac2738f001001b566b90ff6a7cd</sys_scope>
+<sys_update_name>sp_css_include_8e16ea2497e01110ecc47e0e6253af8e</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-04 13:49:30</sys_updated_on>
+<url>/styles/quill_v137.snow.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/styles/quill_v136.snow.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-07 13:27:48</sys_created_on>
+<sys_id>b04e9bf397b70110610e303e6253afb9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>/styles/quill_v136.snow.css</sys_name>
+<sys_package display_value="Employee Experience Foundation" source="sn_ex_emp_fd">4f1782b511863010d3c9cf6239244623</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Experience Foundation">4f1782b511863010d3c9cf6239244623</sys_scope>
+<sys_update_name>sp_css_include_b04e9bf397b70110610e303e6253afb9</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-07 13:27:48</sys_updated_on>
+<url>/styles/quill_v136.snow.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/styles/quill_v136.bubble.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-07 13:26:04</sys_created_on>
+<sys_id>8fed57f397b70110610e303e6253afef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>/styles/quill_v136.bubble.css</sys_name>
+<sys_package display_value="Employee Experience Foundation" source="sn_ex_emp_fd">4f1782b511863010d3c9cf6239244623</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Experience Foundation">4f1782b511863010d3c9cf6239244623</sys_scope>
+<sys_update_name>sp_css_include_8fed57f397b70110610e303e6253afef</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-07 13:26:04</sys_updated_on>
+<url>/styles/quill_v136.bubble.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>cropper(v1.5.12).min.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-04 04:51:56</sys_created_on>
+<sys_id>95399cd95f0201102e3cf0cf2f731375</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>cropper(v1.5.12).min.css</sys_name>
+<sys_package display_value="Employee Experience Foundation" source="sn_ex_emp_fd">4f1782b511863010d3c9cf6239244623</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Experience Foundation">4f1782b511863010d3c9cf6239244623</sys_scope>
+<sys_update_name>sp_css_include_95399cd95f0201102e3cf0cf2f731375</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-04 04:54:17</sys_updated_on>
+<url>/styles/cropper_v1512.min.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>NR Theme Styles</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="nr-theme-styles.css">a6a1a6681b3d0110a96dc8415b4bcbcb</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>chris.sandor@newrocket.com</sys_created_by>
+<sys_created_on>2022-02-17 20:36:41</sys_created_on>
+<sys_id>959126681b3d0110a96dc8415b4bcbf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>NR Theme Styles</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_959126681b3d0110a96dc8415b4bcbf2</sys_update_name>
+<sys_updated_by>chris.sandor@newrocket.com</sys_updated_by>
+<sys_updated_on>2022-02-17 20:36:41</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>sn_appointment_booking_avail_portal.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="appointmentBookingPortal">cb4c8d4f117e3010f877e55d3f6ec39c</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-08-08 02:04:46</sys_created_on>
+<sys_id>cd4d6400e7a80300e76e6188d2f6a96b</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_name>sn_appointment_booking_avail_portal.css</sys_name>
+<sys_package display_value="Appointment Booking" source="sn_apptmnt_booking">d0f0c1303ba23200ce8a4d72f3efc4ac</sys_package>
+<sys_policy/>
+<sys_scope display_value="Appointment Booking">d0f0c1303ba23200ce8a4d72f3efc4ac</sys_scope>
+<sys_update_name>sp_css_include_cd4d6400e7a80300e76e6188d2f6a96b</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-29 05:40:04</sys_updated_on>
+<url>/styles/sn_appointment_booking_availibility_portal.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>snAppointmentBookingAvailibility.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="appointmentBooking">1e5032f211b63010f877e55d3f6ec3b3</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-05-12 18:51:31</sys_created_on>
+<sys_id>8a188bb7d7623200811300285e610300</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>snAppointmentBookingAvailibility.css</sys_name>
+<sys_package display_value="Appointment Booking" source="sn_apptmnt_booking">d0f0c1303ba23200ce8a4d72f3efc4ac</sys_package>
+<sys_policy/>
+<sys_scope display_value="Appointment Booking">d0f0c1303ba23200ce8a4d72f3efc4ac</sys_scope>
+<sys_update_name>sp_css_include_8a188bb7d7623200811300285e610300</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-28 18:20:12</sys_updated_on>
+<url>/styles/snAppointmentBookingAvailibility.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-eJourney</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-eJourney">24cd614d6126b010f877257db5dedbc0</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-10 16:48:05</sys_created_on>
+<sys_id>db2d210d6126b010f877257db5dedbcd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ec-theme-eJourney</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_db2d210d6126b010f877257db5dedbcd</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-10 16:48:05</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-faceted-search</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-faceted-search">34670265730130106d1f57903bf6a790</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-29 18:20:20</sys_created_on>
+<sys_id>6647ce25730130106d1f57903bf6a7d4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-faceted-search</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_6647ce25730130106d1f57903bf6a7d4</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:46:53</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-catalogs</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-catalogs">97b1525b1bb8f85047582171604bcbe4</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-22 19:16:08</sys_created_on>
+<sys_id>ddc1925b1bb8f85047582171604bcb1b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-catalogs</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_ddc1925b1bb8f85047582171604bcb1b</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:44:31</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-knowledge</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-knowledge">aff837ef1b783c5047582171604bcbb1</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-23 21:25:44</sys_created_on>
+<sys_id>150937ef1b783c5047582171604bcba5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-knowledge</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_150937ef1b783c5047582171604bcba5</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:43:02</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-global</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-global">5000dad71bb8f85047582171604bcb47</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-22 19:08:39</sys_created_on>
+<sys_id>73001ed71bb8f85047582171604bcbde</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-global</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_73001ed71bb8f85047582171604bcbde</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:40:52</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-profile</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-profile">ebe837ef1b783c5047582171604bcb3a</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-23 21:25:29</sys_created_on>
+<sys_id>b9f837ef1b783c5047582171604bcbac</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-profile</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_b9f837ef1b783c5047582171604bcbac</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:39:32</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-todos-page</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-todos-page">f2d8f3ef1b783c5047582171604bcb09</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-28 17:05:02</sys_created_on>
+<sys_id>adecac151b49f0108d16ca64604bcb0a</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-todos-page</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_adecac151b49f0108d16ca64604bcb0a</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:37:41</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-walkup</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-walkup">9c1462421bd1741047582171604bcb79</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-07-13 19:56:10</sys_created_on>
+<sys_id>9fe3ee021bd1741047582171604bcb84</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-walkup</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_9fe3ee021bd1741047582171604bcb84</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:35:55</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-content-experience-widget</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-content-experience-widget">607ad4a2b7d130101ff9047f7e11a920</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-07-14 23:35:23</sys_created_on>
+<sys_id>d7002466b7d130101ff9047f7e11a916</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-content-experience-widget</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_d7002466b7d130101ff9047f7e11a916</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:29:45</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-my-requests</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-my-requests">f2205ed71bb8f85047582171604bcb26</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-22 19:09:19</sys_created_on>
+<sys_id>51309ed71bb8f85047582171604bcb9d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-my-requests</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_51309ed71bb8f85047582171604bcb9d</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:25:25</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ec-theme-plan</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-plan">6bae171c1b59fc108d16ca64604bcb70</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-07-08 13:45:11</sys_created_on>
+<sys_id>557f971c1b59fc108d16ca64604bcb95</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>ec-theme-plan</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_557f971c1b59fc108d16ca64604bcb95</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-05 17:12:08</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>esc-polaris-surveys</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="ec-theme-surveys">c5eae43d1b1df01047582171604bcba2</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-07-12 16:35:49</sys_created_on>
+<sys_id>dcdaa43d1b1df01047582171604bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>esc-polaris-surveys</sys_name>
+<sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+<sys_update_name>sp_css_include_dcdaa43d1b1df01047582171604bcb57</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-07-12 16:35:49</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>cd-styled-content.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="cd-styled-content.css">c35ebd4e2cdc3410f877ccaf0314149b</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-08 19:49:47</sys_created_on>
+<sys_id>5f135ab20f203010fc98013ac4767e33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>cd-styled-content.css</sys_name>
+<sys_package display_value="Content Publishing" source="sn_cd">b26210490b7203008cd6e7ae37673a6a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Content Publishing">b26210490b7203008cd6e7ae37673a6a</sys_scope>
+<sys_update_name>sp_css_include_5f135ab20f203010fc98013ac4767e33</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-08 19:49:47</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>tooltip-overflow.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="tooltip-overflow.css">677ed128ff232010f464a36cf43bf135</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-04-12 23:10:58</sys_created_on>
+<sys_id>f8aed128ff232010f464a36cf43bf126</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>tooltip-overflow.css</sys_name>
+<sys_package display_value="Content Publishing" source="sn_cd">b26210490b7203008cd6e7ae37673a6a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Content Publishing">b26210490b7203008cd6e7ae37673a6a</sys_scope>
+<sys_update_name>sp_css_include_f8aed128ff232010f464a36cf43bf126</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-04-12 23:10:58</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>cd-banner.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="cd-banner.css">f204def0ff12601014c6a36cf43bf115</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-02-10 18:26:21</sys_created_on>
+<sys_id>8184def0ff12601014c6a36cf43bf172</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>cd-banner.css</sys_name>
+<sys_package display_value="Content Publishing" source="sn_cd">b26210490b7203008cd6e7ae37673a6a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Content Publishing">b26210490b7203008cd6e7ae37673a6a</sys_scope>
+<sys_update_name>sp_css_include_8184def0ff12601014c6a36cf43bf172</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-02-10 18:26:21</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Segoe Font Face CSS Include</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="Segoe Font Face Style Sheet">21fb45fd5b2b501022527d6f7281c70b</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-29 22:49:54</sys_created_on>
+<sys_id>0fbbcdbd5b2b501022527d6f7281c7c5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Segoe Font Face CSS Include</sys_name>
+<sys_package display_value="Microsoft Integrations - Core" source="sn_now_teams">1892de6953421010fa75ddeeff7b1268</sys_package>
+<sys_policy/>
+<sys_scope display_value="Microsoft Integrations - Core">1892de6953421010fa75ddeeff7b1268</sys_scope>
+<sys_update_name>sp_css_include_0fbbcdbd5b2b501022527d6f7281c7c5</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-10-05 16:33:21</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>portal-content-preview-info-tab.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="portal-content-preview-info-tab.css">12a60c13c3db10102e123a7ea940ddcd</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-21 23:23:19</sys_created_on>
+<sys_id>6ab6cc13c3db10102e123a7ea940dd0e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>portal-content-preview-info-tab.css</sys_name>
+<sys_package display_value="Content Publishing" source="sn_cd">b26210490b7203008cd6e7ae37673a6a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Content Publishing">b26210490b7203008cd6e7ae37673a6a</sys_scope>
+<sys_update_name>sp_css_include_6ab6cc13c3db10102e123a7ea940dd0e</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-21 23:23:19</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dhtmlxgantt</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-16 09:55:33</sys_created_on>
+<sys_id>7f574e2bc313120028d7d56bc3d3ae72</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_name>dhtmlxgantt</sys_name>
+<sys_package display_value="Project Portfolio Suite Portal" source="com.snc.pps_portal">fbb197e11be21810360fcaae6e4bcb80</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_7f574e2bc313120028d7d56bc3d3ae72</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-03-25 01:20:53</sys_updated_on>
+<url>/styles/dhtmlx/v6.3.3/dhtmlxgantt.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>esc-theme-includes.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="esc-theme-includes.css">58d0a25e23232300fb0c949e27bf6503</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-02-13 05:45:24</sys_created_on>
+<sys_id>57b0625e23232300fb0c949e27bf6590</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>esc-theme-includes.css</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_57b0625e23232300fb0c949e27bf6590</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-02-13 05:45:24</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-modal-overrides.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-modal-overrides.css">9f76614987e32300e0ef0cf888cb0b90</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-02-09 04:17:37</sys_created_on>
+<sys_id>9376614987e32300e0ef0cf888cb0b92</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>mesp-modal-overrides.css</sys_name>
+<sys_package display_value="Webviews for mobile" source="sn_me_webview">0d30eeec77eb2300454792718a106177</sys_package>
+<sys_policy/>
+<sys_scope display_value="Webviews for mobile">0d30eeec77eb2300454792718a106177</sys_scope>
+<sys_update_name>sp_css_include_9376614987e32300e0ef0cf888cb0b92</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-02-09 04:17:37</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-overrides-for-date-picker.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-overrides-for-date-picker.css">3f3d1d6e539323008271ddeeff7b1263</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-02-01 09:09:54</sys_created_on>
+<sys_id>5f7cd56e539323008271ddeeff7b1258</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>mesp-overrides-for-date-picker.css</sys_name>
+<sys_package display_value="Webviews for mobile" source="sn_me_webview">0d30eeec77eb2300454792718a106177</sys_package>
+<sys_policy/>
+<sys_scope display_value="Webviews for mobile">0d30eeec77eb2300454792718a106177</sys_scope>
+<sys_update_name>sp_css_include_5f7cd56e539323008271ddeeff7b1258</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-02-01 09:52:45</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>mesp-styling-overrides.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="mesp-styling-overrides.css">56c7337077c72300454792718a106174</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-01-14 23:42:52</sys_created_on>
+<sys_id>a7a7bf3077c72300454792718a1061a1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>mesp-styling-overrides.css</sys_name>
+<sys_package display_value="Webviews for mobile" source="sn_me_webview">0d30eeec77eb2300454792718a106177</sys_package>
+<sys_policy/>
+<sys_scope display_value="Webviews for mobile">0d30eeec77eb2300454792718a106177</sys_scope>
+<sys_update_name>sp_css_include_a7a7bf3077c72300454792718a1061a1</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-01-14 23:42:52</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>benchmarks-theme-stock-high-contrast</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="benchmarks-theme-stock-high-contrast.css">1f822291b78d2300a1671a78ee11a92f</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-10-08 20:41:04</sys_created_on>
+<sys_id>3e526651b78d2300a1671a78ee11a9c6</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>benchmarks-theme-stock-high-contrast</sys_name>
+<sys_package display_value="Benchmark Client" source="sn_bm_client">3ad18693db92220004997878f0b8f516</sys_package>
+<sys_policy/>
+<sys_scope display_value="Benchmark Client">3ad18693db92220004997878f0b8f516</sys_scope>
+<sys_update_name>sp_css_include_3e526651b78d2300a1671a78ee11a9c6</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-10-17 17:25:46</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name/>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="sp-theme-stock-high-contrast.css">27b1bbc277002300a6e592718a106137</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-10-15 05:31:29</sys_created_on>
+<sys_id>ef551f93db0523005e931150f0b8f586</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name/>
+<sys_package display_value="Business Planner" source="com.snc.apm.business_planner">33b197e11be21810360fcaae6e4bcbdf</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_ef551f93db0523005e931150f0b8f586</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-10-15 05:31:29</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name/>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="sp-theme-la-jolla.css">6412ffc277002300a6e592718a1061ec</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-10-15 05:30:54</sys_created_on>
+<sys_id>4e35db93db0523005e931150f0b8f53c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name/>
+<sys_package display_value="Business Planner" source="com.snc.apm.business_planner">33b197e11be21810360fcaae6e4bcbdf</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_4e35db93db0523005e931150f0b8f53c</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-10-15 05:30:54</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>benchmarks-theme-stock-high-contrast.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="benchmarks-theme-stock-high-contrast.css">1f822291b78d2300a1671a78ee11a92f</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-10-08 20:41:50</sys_created_on>
+<sys_id>2392ee51b78d2300a1671a78ee11a9ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>benchmarks-theme-stock-high-contrast.css</sys_name>
+<sys_package display_value="Benchmark Client" source="sn_bm_client">3ad18693db92220004997878f0b8f516</sys_package>
+<sys_policy/>
+<sys_scope display_value="Benchmark Client">3ad18693db92220004997878f0b8f516</sys_scope>
+<sys_update_name>sp_css_include_2392ee51b78d2300a1671a78ee11a9ff</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-10-08 20:41:50</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>benchmarks-theme-viridian.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="benchmarks-theme-viridian.css">b0bd9a11b78d2300a1671a78ee11a9e5</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-10-08 20:19:58</sys_created_on>
+<sys_id>ec6d5a11b78d2300a1671a78ee11a925</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>benchmarks-theme-viridian.css</sys_name>
+<sys_package display_value="Benchmark Client" source="sn_bm_client">3ad18693db92220004997878f0b8f516</sys_package>
+<sys_policy/>
+<sys_scope display_value="Benchmark Client">3ad18693db92220004997878f0b8f516</sys_scope>
+<sys_update_name>sp_css_include_ec6d5a11b78d2300a1671a78ee11a925</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-10-08 20:28:42</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>benchmarks-theme-viridian.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="benchmarks-theme-viridian.css">b0bd9a11b78d2300a1671a78ee11a9e5</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-10-08 20:28:20</sys_created_on>
+<sys_id>b98f9a11b78d2300a1671a78ee11a9ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>benchmarks-theme-viridian.css</sys_name>
+<sys_package display_value="Benchmark Client" source="sn_bm_client">3ad18693db92220004997878f0b8f516</sys_package>
+<sys_policy/>
+<sys_scope display_value="Benchmark Client">3ad18693db92220004997878f0b8f516</sys_scope>
+<sys_update_name>sp_css_include_b98f9a11b78d2300a1671a78ee11a9ea</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-10-08 20:28:20</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>sp-theme-la-jolla.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="sp-theme-la-jolla.css">6412ffc277002300a6e592718a1061ec</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-22 17:22:35</sys_created_on>
+<sys_id>ba42ffc277002300a6e592718a1061ce</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>sp-theme-la-jolla.css</sys_name>
+<sys_package display_value="Service Portal La Jolla Branding" source="com.glide.service-portal.themes.la-jolla">d848c8341b353300360fcaae6e4bcb2e</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_ba42ffc277002300a6e592718a1061ce</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-10-08 17:22:35</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>sp-theme-stock-high-contrast.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="sp-theme-stock-high-contrast.css">27b1bbc277002300a6e592718a106137</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-22 17:20:49</sys_created_on>
+<sys_id>78e17bc277002300a6e592718a10612b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>sp-theme-stock-high-contrast.css</sys_name>
+<sys_package display_value="Service Portal La Jolla Branding" source="com.glide.service-portal.themes.la-jolla">d848c8341b353300360fcaae6e4bcb2e</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_78e17bc277002300a6e592718a10612b</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-22 17:20:49</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>angular-tooltips-1.1.8</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-07-24 19:14:22</sys_created_on>
+<sys_id>40d436f42323130062faff5e17bf65ad</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>angular-tooltips-1.1.8</sys_name>
+<sys_package display_value="Service Portal - Service Status" source="com.glide.service-portal.service-status">163884341b353300360fcaae6e4bcbb0</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_40d436f42323130062faff5e17bf65ad</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-24 19:14:22</sys_updated_on>
+<url>/scripts/libs/angular-tooltips/v1.1.8/angular-tooltips.min.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>ng-sortable</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-05-01 20:51:05</sys_created_on>
+<sys_id>b23666f523311300ab65ff5e17bf65b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ng-sortable</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_b23666f523311300ab65ff5e17bf65b7</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-05-01 20:51:05</sys_updated_on>
+<url>/scripts/libs/ng-sortable-1.3.4/ng-sortable.min.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>scWorkspace</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="scWorkspace">a378e94587a01300e3010cf888cb0bf2</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-26 05:07:05</sys_created_on>
+<sys_id>7288294587a01300e3010cf888cb0b1a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>scWorkspace</sys_name>
+<sys_package display_value="Service Catalog - Service Workspace" source="sn_sc_workspace">0097719c3b0203008ed00d8044efc478</sys_package>
+<sys_policy>read</sys_policy>
+<sys_scope display_value="Service Catalog - Service Workspace">0097719c3b0203008ed00d8044efc478</sys_scope>
+<sys_update_name>sp_css_include_7288294587a01300e3010cf888cb0b1a</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-02-26 05:07:05</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>sn-notifications</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-21 13:23:46</sys_created_on>
+<sys_id>0cd9692387d013006dc1578c87cb0b1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>sn-notifications</sys_name>
+<sys_package display_value="Project Portfolio Suite Portal" source="com.snc.pps_portal">fbb197e11be21810360fcaae6e4bcb80</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_0cd9692387d013006dc1578c87cb0b1f</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-02-21 13:23:46</sys_updated_on>
+<url>styles/sn_notification.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>tcp header calender css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-11-23 07:00:57</sys_created_on>
+<sys_id>a373782687220300e08cd82548cb0b0b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>tcp header calender css</sys_name>
+<sys_package display_value="Time card portal" source="com.snc.time_card_portal">01b193e11be21810360fcaae6e4bcb8f</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_a373782687220300e08cd82548cb0b0b</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-11-23 07:01:24</sys_updated_on>
+<url>/styles/tcp-header-calendar.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>HeisenbergRetinaIcons</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-09-09 06:34:26</sys_created_on>
+<sys_id>ef0e925e87c50300e0ef0cf888cb0bce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>HeisenbergRetinaIcons</sys_name>
+<sys_package display_value="Service Portal - Service Catalog (do not activate...see plugin description)" source="com.glide.service-portal.service-catalog">2f3848341b353300360fcaae6e4bcb53</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_ef0e925e87c50300e0ef0cf888cb0bce</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-09-09 06:34:26</sys_updated_on>
+<url>/styles/retina_icons/retina_icons.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>gojs.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-09-08 17:28:38</sys_created_on>
+<sys_id>ed1a27825b010300ab65c7ad31f91adf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>gojs.css</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_ed1a27825b010300ab65c7ad31f91adf</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-09-08 17:28:38</sys_updated_on>
+<url>/scripts/libs/gojs/1.7/gojs.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/scripts/bundles/pa-ui.bundle.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2017-08-23 13:03:53</sys_created_on>
+<sys_id>540458056734030032468aaad485efb2</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>/scripts/bundles/pa-ui.bundle.css</sys_name>
+<sys_package display_value="Performance Analytics and Reporting - Service Portal Widgets" source="com.snc.pa.sp.widget">be29c03c1b353300360fcaae6e4bcbfd</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_540458056734030032468aaad485efb2</sys_update_name>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2017-08-23 13:04:50</sys_updated_on>
+<url>/scripts/bundles/pa-ui.bundle.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>sn_appointment_boking_avail_platform.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-08-08 01:57:50</sys_created_on>
+<sys_id>fa1ba000e7a80300e76e6188d2f6a97d</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_name>sn_appointment_boking_avail_platform.css</sys_name>
+<sys_package display_value="Appointment Booking" source="sn_apptmnt_booking">d0f0c1303ba23200ce8a4d72f3efc4ac</sys_package>
+<sys_policy/>
+<sys_scope display_value="Appointment Booking">d0f0c1303ba23200ce8a4d72f3efc4ac</sys_scope>
+<sys_update_name>sp_css_include_fa1ba000e7a80300e76e6188d2f6a97d</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-08-08 02:11:19</sys_updated_on>
+<url>styles/sn_appointment_booking_availibility_platform.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>retina_icons.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-19 17:45:47</sys_created_on>
+<sys_id>5ccf4f209f231200b18a7feea57fcf23</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_name>retina_icons.css</sys_name>
+<sys_package display_value="Common ITSM Service Portal Application Components" source="com.snc.app_common.service_portal">000940f81b353300360fcaae6e4bcbf6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_5ccf4f209f231200b18a7feea57fcf23</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-03-11 11:53:51</sys_updated_on>
+<url>/styles/retina_icons/retina_icons.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Agent Calendar Widget</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-01-24 10:36:41</sys_created_on>
+<sys_id>cd2b014193a03200ea933007f67ffb27</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_name>Agent Calendar Widget</sys_name>
+<sys_package display_value="Resource Management" source="com.snc.resource_management">00d15fe11be21810360fcaae6e4bcb60</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_cd2b014193a03200ea933007f67ffb27</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-01-24 18:32:10</sys_updated_on>
+<url>/styles/css_includes_app.common.apps.agent_calendar_widget.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>css_includes_pa_service_portal.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-01-13 14:51:55</sys_created_on>
+<sys_id>c21c99296790320032468aaad485ef34</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>css_includes_pa_service_portal.css</sys_name>
+<sys_package display_value="Performance Analytics and Reporting - Service Portal Widgets" source="com.snc.pa.sp.widget">be29c03c1b353300360fcaae6e4bcbfd</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_c21c99296790320032468aaad485ef34</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-01-13 14:51:55</sys_updated_on>
+<url>/styles/css_includes_pa_service_portal.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>RetinaIconsCSS</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-12-30 00:16:21</sys_created_on>
+<sys_id>2d5dc6b06700320080c6c3105685ef1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>RetinaIconsCSS</sys_name>
+<sys_package display_value="Service Portal Surveys" source="sn_portal_surveys">67ac5062db10220035417878f0b8f5c4</sys_package>
+<sys_policy/>
+<sys_scope display_value="Service Portal Surveys">67ac5062db10220035417878f0b8f5c4</sys_scope>
+<sys_update_name>sp_css_include_2d5dc6b06700320080c6c3105685ef1e</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-12-30 00:16:21</sys_updated_on>
+<url>/styles/retina_icons/retina_icons.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>RetinaIcons</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-11-14 20:42:33</sys_created_on>
+<sys_id>b8dced566703220051a062c15685ef91</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_name>RetinaIcons</sys_name>
+<sys_package display_value="Service Portal Surveys" source="sn_portal_surveys">67ac5062db10220035417878f0b8f5c4</sys_package>
+<sys_policy/>
+<sys_scope display_value="Service Portal Surveys">67ac5062db10220035417878f0b8f5c4</sys_scope>
+<sys_update_name>sp_css_include_b8dced566703220051a062c15685ef91</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-12-29 19:20:27</sys_updated_on>
+<url>/styles/retina_icons/retina_icons.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/styles/com.sn_openframe/main.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-12-16 18:34:28</sys_created_on>
+<sys_id>fa82ca68c373220071d07bfaa2d3ae7d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>/styles/com.sn_openframe/main.css</sys_name>
+<sys_package display_value="openframe" source="sn_openframe">3d7925f9eb5002003e97afcef106fee6</sys_package>
+<sys_policy/>
+<sys_scope display_value="openframe">3d7925f9eb5002003e97afcef106fee6</sys_scope>
+<sys_update_name>sp_css_include_fa82ca68c373220071d07bfaa2d3ae7d</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-12-16 18:34:28</sys_updated_on>
+<url>/styles/com.sn_openframe/main.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>CSS chart includes</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-11-29 13:56:01</sys_created_on>
+<sys_id>d44f9d0b9f1322008252baac757fcfb6</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>CSS chart includes</sys_name>
+<sys_package display_value="Performance Analytics and Reporting - Service Portal Widgets" source="com.snc.pa.sp.widget">be29c03c1b353300360fcaae6e4bcbfd</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_d44f9d0b9f1322008252baac757fcfb6</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-11-29 14:06:27</sys_updated_on>
+<url>/styles/chart_includes.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Theme Doctype</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-11-29 14:05:08</sys_created_on>
+<sys_id>61d1e54b9f1322008252baac757fcf96</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Theme Doctype</sys_name>
+<sys_package display_value="Performance Analytics and Reporting - Service Portal Widgets" source="com.snc.pa.sp.widget">be29c03c1b353300360fcaae6e4bcbfd</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_61d1e54b9f1322008252baac757fcf96</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-11-29 14:05:08</sys_updated_on>
+<url>/styles/theme_doctype.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>styles/retina_icons/retina_icons.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-11-21 19:16:15</sys_created_on>
+<sys_id>264c55acc713220023c86c158b9763c7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>styles/retina_icons/retina_icons.css</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_264c55acc713220023c86c158b9763c7</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-11-21 19:16:15</sys_updated_on>
+<url>styles/retina_icons/retina_icons.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>styles/thirdparty/datetimepicker.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-11-21 17:44:19</sys_created_on>
+<sys_id>a64705a8c713220023c86c158b9763ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>styles/thirdparty/datetimepicker.css</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_a64705a8c713220023c86c158b9763ff</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-11-21 17:44:19</sys_updated_on>
+<url>styles/thirdparty/datetimepicker.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>styles/filter.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-11-21 17:43:55</sys_created_on>
+<sys_id>213705a8c713220023c86c158b976380</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>styles/filter.css</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_213705a8c713220023c86c158b976380</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-11-21 17:43:55</sys_updated_on>
+<url>styles/filter.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>introjs.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-11-15 07:33:07</sys_created_on>
+<sys_id>69914caa0b832200b7d0c32c15673ad7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>introjs.css</sys_name>
+<sys_package display_value="Project Portfolio Suite Portal" source="com.snc.pps_portal">fbb197e11be21810360fcaae6e4bcb80</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_69914caa0b832200b7d0c32c15673ad7</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-11-15 07:33:07</sys_updated_on>
+<url>/scripts/thirdparty/intro-v1.0.0/introjs.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>snCabToggle.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="snCabToggle.css">253394d0d722220034d145bcce610357</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-14 12:31:11</sys_created_on>
+<sys_id>9d4394d0d722220034d145bcce610359</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>snCabToggle.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_9d4394d0d722220034d145bcce610359</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-14 12:31:11</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>snCabLineClamp.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="snCabLineClamp.css">bf135494d722220034d145bcce6103d4</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-14 12:30:43</sys_created_on>
+<sys_id>262354d0d722220034d145bcce6103d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>snCabLineClamp.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_262354d0d722220034d145bcce6103d1</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-14 12:30:43</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>snVcabCalendar.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="snVcabCalendar.css">8900bbbbd796220034d145bcce61033a</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-13 15:18:53</sys_created_on>
+<sys_id>cc10fbbbd796220034d145bcce6103ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>snVcabCalendar.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_cc10fbbbd796220034d145bcce6103ec</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-13 15:18:53</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>common-calendar.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-13 15:16:47</sys_created_on>
+<sys_id>7c7f23bbd796220034d145bcce6103d9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>common-calendar.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_7c7f23bbd796220034d145bcce6103d9</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-13 15:16:47</sys_updated_on>
+<url>/styles/css_includes_app.common.apps.calendar.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>snFloatBox.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="snFloatBox.css">04ec6bf7d796220034d145bcce6103d6</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-13 15:05:37</sys_created_on>
+<sys_id>350d2bf7d796220034d145bcce6103cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>snFloatBox.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_350d2bf7d796220034d145bcce6103cd</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-13 15:05:37</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>snLineClamp.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="snLineClamp.css">c51d11e7d712220034d145bcce6103ec</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-12 09:58:51</sys_created_on>
+<sys_id>d63ddda7d712220034d145bcce61037d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>snLineClamp.css</sys_name>
+<sys_package display_value="Common ITSM Service Portal Application Components" source="com.snc.app_common.service_portal">000940f81b353300360fcaae6e4bcbf6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_d63ddda7d712220034d145bcce61037d</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-12 09:58:51</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>snDonutTimer.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="snDonutTimer.css">2dab501bd712220034d145bcce610393</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-12 09:22:41</sys_created_on>
+<sys_id>59d4d167d712220034d145bcce610385</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>snDonutTimer.css</sys_name>
+<sys_package display_value="Common ITSM Service Portal Application Components" source="com.snc.app_common.service_portal">000940f81b353300360fcaae6e4bcbf6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_59d4d167d712220034d145bcce610385</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-12 09:22:41</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>styles/thirdparty/datetimepicker.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-08-24 10:00:24</sys_created_on>
+<sys_id>58a741f79391220064f572edb67ffb0e</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>styles/thirdparty/datetimepicker.css</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_58a741f79391220064f572edb67ffb0e</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-08-24 10:01:09</sys_updated_on>
+<url>/styles/thirdparty/datetimepicker.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>styles/filter.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-08-01 04:29:51</sys_created_on>
+<sys_id>1e6f51589301220064f572edb67ffb26</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_name>styles/filter.css</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_1e6f51589301220064f572edb67ffb26</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-08-01 04:31:14</sys_updated_on>
+<url>/styles/filter.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/styles/css_includes_vcab_common.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-07-25 12:08:05</sys_created_on>
+<sys_id>4425cfc29fb02200b18a7feea57fcf60</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>/styles/css_includes_vcab_common.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_4425cfc29fb02200b18a7feea57fcf60</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-07-25 12:08:21</sys_updated_on>
+<url>/styles/css_includes_vcab_common.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/styles/css_includes_cab_workbench.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-07-03 09:50:17</sys_created_on>
+<sys_id>d7825907eb10220034d1eeea1206fe32</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>/styles/css_includes_cab_workbench.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_d7825907eb10220034d1eeea1206fe32</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-07-03 09:50:17</sys_updated_on>
+<url>/styles/css_includes_cab_workbench.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>dhtmlxoverride</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-06-10 17:40:14</sys_created_on>
+<sys_id>746160777f7712009b5b91679ffa9180</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>dhtmlxoverride</sys_name>
+<sys_package display_value="Project Portfolio Suite Portal" source="com.snc.pps_portal">fbb197e11be21810360fcaae6e4bcb80</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_746160777f7712009b5b91679ffa9180</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-06-10 17:40:14</sys_updated_on>
+<url>/styles/dhtmlx/dhtmlxoverride.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>segmented-control</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-06-03 09:12:01</sys_created_on>
+<sys_id>532a6e1d9333120064f572edb67ffb5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>segmented-control</sys_name>
+<sys_package display_value="Project Portfolio Suite Portal" source="com.snc.pps_portal">fbb197e11be21810360fcaae6e4bcb80</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_532a6e1d9333120064f572edb67ffb5c</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-06-03 09:12:01</sys_updated_on>
+<url>/styles/app.resourceWorkbench/segmented_control.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>heisenberg</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-06-03 09:00:19</sys_created_on>
+<sys_id>5187e61d9333120064f572edb67ffb38</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>heisenberg</sys_name>
+<sys_package display_value="Project Portfolio Suite Portal" source="com.snc.pps_portal">fbb197e11be21810360fcaae6e4bcb80</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_5187e61d9333120064f572edb67ffb38</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-06-03 09:05:56</sys_updated_on>
+<url>/styles/heisenberg/heisenberg_all.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>css_includes_gantt</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-31 09:44:05</sys_created_on>
+<sys_id>e7a4531cc333120028d7d56bc3d3aecb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>css_includes_gantt</sys_name>
+<sys_package display_value="Project Portfolio Suite Portal" source="com.snc.pps_portal">fbb197e11be21810360fcaae6e4bcb80</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_e7a4531cc333120028d7d56bc3d3aecb</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-05-31 09:44:05</sys_updated_on>
+<url>/styles/css_includes_gantt.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/styles/retina_icons/retina_icons.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-30 12:29:40</sys_created_on>
+<sys_id>6ff0324093731200ea933007f67ffb46</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>/styles/retina_icons/retina_icons.css</sys_name>
+<sys_package display_value="Bubble Chart widget for Service Portal" source="com.snc.sp_workbench_widgets">73b197e11be21810360fcaae6e4bcb81</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_6ff0324093731200ea933007f67ffb46</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-05-30 12:29:40</sys_updated_on>
+<url>/styles/retina_icons/retina_icons.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/styles/app.bubblechart_workbench/main.c</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-30 11:56:26</sys_created_on>
+<sys_id>f239a20093731200ea933007f67ffbe4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>/styles/app.bubblechart_workbench/main.c</sys_name>
+<sys_package display_value="Bubble Chart widget for Service Portal" source="com.snc.sp_workbench_widgets">73b197e11be21810360fcaae6e4bcb81</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_f239a20093731200ea933007f67ffbe4</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-05-30 11:56:48</sys_updated_on>
+<url>/styles/app.bubblechart_workbench/main.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>css_includes_portfolio_gantt</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-16 10:09:51</sys_created_on>
+<sys_id>ebba426bc313120028d7d56bc3d3ae32</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>css_includes_portfolio_gantt</sys_name>
+<sys_package display_value="Project Portfolio Suite Portal" source="com.snc.pps_portal">fbb197e11be21810360fcaae6e4bcb80</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_ebba426bc313120028d7d56bc3d3ae32</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-05-16 10:09:51</sys_updated_on>
+<url>styles/css_includes_portfolio_gantt.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>/styles/css_includes_vcab_calendar.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-12 17:40:31</sys_created_on>
+<sys_id>619bcf5a9f131200b18a7feea57fcfbd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>/styles/css_includes_vcab_calendar.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_619bcf5a9f131200b18a7feea57fcfbd</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-05-12 17:40:31</sys_updated_on>
+<url>/styles/css_includes_vcab_calendar.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>consumer-service-styles.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="consumer-service-styles.css">241817c6c313120071d07bfaa2d3ae2d</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-11 23:57:29</sys_created_on>
+<sys_id>ac4817c6c313120071d07bfaa2d3aedc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>consumer-service-styles.css</sys_name>
+<sys_package display_value="">f53d61341be5f510b9e6cbb5624bcb3e</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_ac4817c6c313120071d07bfaa2d3aedc</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-05-11 23:57:29</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>css_includes_vcab_misc.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-05-07 14:49:50</sys_created_on>
+<sys_id>2484383c9f131200b18a7feea57fcf3d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>css_includes_vcab_misc.css</sys_name>
+<sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+<sys_policy/>
+<sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+<sys_update_name>sp_css_include_2484383c9f131200b18a7feea57fcf3d</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-05-07 14:50:37</sys_updated_on>
+<url>/styles/css_includes_vcab_misc.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>sp_codemirror_includes.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-01-06 21:17:22</sys_created_on>
+<sys_id>96caf9e15b301200e39fc7ad31f91ad9</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>sp_codemirror_includes.css</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_96caf9e15b301200e39fc7ad31f91ad9</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-03-09 22:35:12</sys_updated_on>
+<url>/styles/sp_codemirror_includes.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>customer-service-styles.css</name>
+<rtl_css_file_url/>
+<source>local</source>
+<sp_css display_value="customer-service-styles.css">244f1ed3cb13020000f8d856634c9c21</sp_css>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-10-29 20:49:17</sys_created_on>
+<sys_id>7e2f1ed3cb13020000f8d856634c9c03</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_name>customer-service-styles.css</sys_name>
+<sys_package display_value="Customer Service Portal Classic" source="com.glide.service-portal.customer-portal">58bc7bfc977721d0bf9c37e3f153afac</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_7e2f1ed3cb13020000f8d856634c9c03</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-03-06 00:35:30</sys_updated_on>
+<url/>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>bootstrap-slider.min.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-03-02 16:46:58</sys_created_on>
+<sys_id>3b5655ef0b711200b0b02c6317673a97</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>bootstrap-slider.min.css</sys_name>
+<sys_package display_value="Service Portal Configuration Pages" source="com.glide.service-portal.config">123884341b353300360fcaae6e4bcb62</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_3b5655ef0b711200b0b02c6317673a97</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-03-02 16:46:58</sys_updated_on>
+<url>/scripts/libs/bootstrap-slider/bootstrap-slider.min.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>spectrum.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-01-29 17:34:20</sys_created_on>
+<sys_id>dcc467700b111200b0b02c6317673a83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>spectrum.css</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_dcc467700b111200b0b02c6317673a83</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-01-29 17:34:20</sys_updated_on>
+<url>/styles/spectrum.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name/>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-01-27 22:14:38</sys_created_on>
+<sys_id>30b116d05b1112000d7ec7ad31f91a7d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name/>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_30b116d05b1112000d7ec7ad31f91a7d</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-01-27 22:16:27</sys_updated_on>
+<url>/scripts/thirdparty/epiceditor/themes/base/epiceditor.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>selectize default</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-01-14 00:44:12</sys_created_on>
+<sys_id>b3bd6eb7d730120023c84f80de610392</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_name>selectize default</sys_name>
+<sys_package display_value="Service Portal - Core" source="com.glide.service-portal">4b18c4f01b353300360fcaae6e4bcb4b</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sp_css_include_b3bd6eb7d730120023c84f80de610392</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-01-14 00:46:16</sys_updated_on>
+<url>styles/selectize/selectize.default.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>hrsp_theme.css</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-12-10 01:22:07</sys_created_on>
+<sys_id>b9e232209f22120047a2d126c42e70b0</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_name>hrsp_theme.css</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_b9e232209f22120047a2d126c42e70b0</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-12-28 23:26:24</sys_updated_on>
+<url>styles/hrsp_theme.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>sig-pad</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-12-17 18:06:41</sys_created_on>
+<sys_id>79e232209f22120047a2d126c42e70b0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>sig-pad</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_79e232209f22120047a2d126c42e70b0</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-12-17 18:06:41</sys_updated_on>
+<url>styles/jquery.signaturepad.css</url>
+</sp_css_include>
+<sp_css_include action="INSERT_OR_UPDATE">
+<lazy_load>false</lazy_load>
+<name>Signature Pad</name>
+<rtl_css_file_url/>
+<source>url</source>
+<sp_css display_value=""/>
+<sys_class_name>sp_css_include</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-12-17 15:29:06</sys_created_on>
+<sys_id>39e232209f22120047a2d126c42e70b0</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_name>Signature Pad</sys_name>
+<sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+<sys_policy/>
+<sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+<sys_update_name>sp_css_include_39e232209f22120047a2d126c42e70b0</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2015-12-17 16:22:56</sys_updated_on>
+<url>styles/signature-pad.css</url>
+</sp_css_include>
+</unload>
